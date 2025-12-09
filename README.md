@@ -25,8 +25,8 @@ presentation/
 
 ## Team Members & Roles  
 - **Kristin Sells** – GitHub, research  
-- **David Huang** – Research, StoryMap Building  
-- **Magan Zeng** – Story Map, Visualization & Research  
+- **David Huang** – GitHub, Research, StoryMap  
+- **Magan Zeng** – StoryMap, Visualization & Research  
 - **Ashley Chen** – Research & Presentation  
 - **Hasib Malik** – Project Management & Review  
 - **Kevin Huang** – Research & Visualization  
@@ -37,7 +37,7 @@ presentation/
 The full ArcGIS StoryMap can be viewed here:  
 **https://storymaps.arcgis.com/stories/8fe0f6324a2f49398a91ece34d53f183**
 
-## How This Repo Was Created  
-- Forked original class repository under DHuang  
-- Created structured folders for organization  
-- Added project documentation and placeholder file structure  
+## How This Repo Was Created
+- Created structured folders for organization
+- Added project documentation and placeholder file structure
+- Uploaded images and files used for presentation and StoryMap
