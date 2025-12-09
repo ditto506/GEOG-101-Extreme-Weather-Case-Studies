@@ -5,8 +5,8 @@
 This project analyzes and compares the impacts of two major storms – Hurricane Sandy and Hurricane Ida – on New York City. Using maps, rainfall/storm-surge visualizations, and narrative research, we explore how different kinds of extreme weather (coastal storm surge vs. inland flooding) threaten urban communities.
 
 ## 📂 Repository Structure
-This repository was created for GEOG 101 – Extreme Weather Case Studies at CUNY Hunter College```
-README.md  
+This repository was created for GEOG 101 – Extreme Weather Case Studies at CUNY Hunter College
+  
 data/  
 docs/  
 images/  
